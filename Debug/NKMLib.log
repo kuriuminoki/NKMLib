@@ -1,0 +1,6 @@
+﻿  Com.cpp
+d:\programing\nkmlib\com.cpp(12): warning C4244: '引数': 'llint' から 'const unsigned int' への変換です。データが失われる可能性があります。
+d:\programing\nkmlib\com.cpp(13): warning C4244: '引数': 'llint' から 'const unsigned int' への変換です。データが失われる可能性があります。
+d:\programing\nkmlib\com.cpp(14): warning C4244: '引数': 'llint' から 'const unsigned int' への変換です。データが失われる可能性があります。
+  NKMLib.vcxproj -> D:\programing\NKMLib\Debug\NKMLib.exe
+  NKMLib.vcxproj -> D:\programing\NKMLib\Debug\NKMLib.pdb (Partial PDB)
